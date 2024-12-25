@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://dipsongurung.com.np" target="blank">Dipson Gurung</a></h1>
-<h3 align="center">A passionate Cybersecurity student from Nepal 🇳🇵</h3>
+<h3 align="center">A self-driven cybersecurity learner and CSIT student from Nepal 🇳🇵.</h3>
 <a href="https://www.linkedin.com/in/dipson-gurung-036035284/" /><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a target="_blank" align="center">
