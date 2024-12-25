@@ -1,52 +1,64 @@
-# Hello, I'm Dipson Gurung
+<h1 align="center">Hi 👋, I'm <a href="https://dipsongurung.com.np" target="blank">Dipson Gurung</a></h1>
+<h3 align="center">A passionate Cybersecurity student from Nepal 🇳🇵</h3>
 <a href="https://www.linkedin.com/in/dipson-gurung-036035284/" /><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a bachelor's student with a strong passion for technology and a commitment to tackling challenging problems.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+- 🔭 I’m currently working on **SOC Automation** and **Detection Lab** projects.
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/DipsonGurung/Detection-Lab/tree/main">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DipsonGurung/Detection-Lab/tree/main">Detection Lab</a> |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab         |
-| Incident Response Planning and Execution      | SOC Automation Lab         |
-| Case Management with TheHive                  | SOC Automation Lab         |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab         |
+- 🌱 I’m currently learning **KQL** for SOC tasks and **SIEM management** with **Splunk**.
 
-## Tools
+- 🤝 I’m available for cybersecurity-related consulting.
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+- 📝 I regularly write articles on [https://medium.com/@deep_son07](https://medium.com/@deep_son07).
+
+- 💬 Ask me about **Cybersecurity**, and **SOC operations**.
+
+- 📫 How to reach me: **mail@dipsongurung.com.np**
+
+- 📄 Know about my experiences: [Resume](https://github.com/dipsongurung/Me.io/blob/master/DipsonGurungResume.pdf)
+
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+<div align="center" class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/dipsongurung/">
+        <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; border-radius: 50%;">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/dipsongurung">
+        <img src="https://static.vecteezy.com/system/resources/previews/046/437/248/non_2x/github-logo-transparent-background-free-png.png" alt="GitHub" style="width: 40px; height: 40px; border-radius: 50%;">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@deep_son07">
+        <img src="https://www.graphicdesignforum.com/uploads/default/original/2X/0/0e58f26a6dd982e7f04d1286defd4320e6d6153b.jpeg" alt="Medium" style="width: 40px; height: 40px; border-radius: 50%;">
+    </a>
+    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/dipsongurung">
+        <img src="https://seeklogo.com/images/T/twitter-new-logo-8A0C4E0C58-seeklogo.com.png" alt="Twitter" style="width: 40px; height: 40px; border-radius: 50%;">
+    </a>
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io-badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
-## Projects
-- [Detection Lab](https://github.com/DipsonGurung/Detection-Lab/tree/main)
-- SOC Automation Project
+</p>
+
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Understanding SOC Automation: A Beginner's Guide](https://dev.to/dipsongurung/soc-automation-beginners-guide)
+- [How to Use Splunk for SIEM Management](https://dev.to/dipsongurung/how-to-use-splunk-for-siem-management)
+- [Detecting Network Anomalies with Zeek](https://dev.to/dipsongurung/detecting-network-anomalies-with-zeek)
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### Let's Connect  
+Thanks for stopping by! I'd love to hear from you—whether it's feedback, collaboration ideas, or just a friendly hello. 😊  
+
