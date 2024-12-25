@@ -12,7 +12,7 @@
 
 - 🤝 I’m available for cybersecurity-related consulting.
 
-- 📝 I regularly write articles on [https://medium.com/@deep_son07](https://medium.com/@deep_son07).
+- 📝 I regularly write blogs on [https://medium.com/@deep_son07](https://medium.com/@deep_son07).
 
 - 💬 Ask me about **Cybersecurity**, and **SOC operations**.
 
