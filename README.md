@@ -26,7 +26,7 @@
 <p align="center">
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/dipsongurung/">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/dipson-gurung/">
         <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/dipsongurung">
