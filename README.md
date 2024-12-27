@@ -51,7 +51,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Understanding SOC Automation: A Beginner's Guide](https://dev.to/dipsongurung/soc-automation-beginners-guide)
+- [Reverse Shell Simulation Lab: Understanding the Threat and Building Defenses](https://medium.com/@deep_son07/reverse-shell-simulation-lab-understanding-the-threat-and-building-defenses-8c5b7ef74c0e)
 - [How to Use Splunk for SIEM Management](https://dev.to/dipsongurung/how-to-use-splunk-for-siem-management)
 - [Detecting Network Anomalies with Zeek](https://dev.to/dipsongurung/detecting-network-anomalies-with-zeek)
 
