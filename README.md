@@ -12,7 +12,7 @@
 
 - 🤝 I’m available for cybersecurity-related consulting.
 
-- 📝 I regularly write blogs on [https://medium.com/@deep_son07](https://medium.com/@deep_son07).
+- 📝 I regularly write blogs on [https://medium.com/@deep_son07](https://medium.com/@dipsongurung).
 
 - 💬 Ask me about **Cybersecurity**, and **SOC operations**.
 
@@ -32,7 +32,7 @@
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/dipsongurung">
         <img src="https://static.vecteezy.com/system/resources/previews/046/437/248/non_2x/github-logo-transparent-background-free-png.png" alt="GitHub" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@deep_son07">
+    <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@dipsongurung">
         <img src="https://www.graphicdesignforum.com/uploads/default/original/2X/0/0e58f26a6dd982e7f04d1286defd4320e6d6153b.jpeg" alt="Medium" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://x.com/deep_son07">
@@ -51,7 +51,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Reverse Shell Simulation Lab: Understanding the Threat and Building Defenses](https://medium.com/@deep_son07/reverse-shell-simulation-lab-understanding-the-threat-and-building-defenses-8c5b7ef74c0e)
+- [Reverse Shell Simulation Lab: Understanding the Threat and Building Defenses](https://medium.com/@dipsongurung/reverse-shell-simulation-lab-understanding-the-threat-and-building-defenses-8c5b7ef74c0e)
 - [How to Use Splunk for SIEM Management](https://dev.to/dipsongurung/how-to-use-splunk-for-siem-management)
 - [Detecting Network Anomalies with Zeek](https://dev.to/dipsongurung/detecting-network-anomalies-with-zeek)
 
