@@ -36,7 +36,7 @@
         <img src="https://www.graphicdesignforum.com/uploads/default/original/2X/0/0e58f26a6dd982e7f04d1286defd4320e6d6153b.jpeg" alt="Medium" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
     <a style="margin-left: 10px;" target="_blank" href="https://x.com/deep_son07">
-        <img src="https://seeklogo.com/images/T/twitter-new-logo-8A0C4E0C58-seeklogo.com.png" alt="Twitter" style="width: 40px; height: 40px; border-radius: 50%;">
+        <img src="https://i.pinimg.com/736x/b2/68/83/b268838fe5a0c0ca504c2fc103843ae3.jpg" style="width: 40px; height: 40px; border-radius: 50%;">
     </a>
 </div>
 
